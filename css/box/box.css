@@ -1,0 +1,29 @@
+.first {
+    font-size: 110%;
+    background-color: violet;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+    border: 10px solid black;
+    
+}
+
+.second {
+    background-color: blue;
+margin-left: 31%;
+border: 20px solid black;
+border-width: 20px 9.6px 20px 9.6px;
+}
+
+.third {
+background-color: yellowgreen;
+margin-left: 39px;
+border: 10px solid ;
+border-width: 9.6px 9.6px 9.6px 9.px;
+
+}
+
+div {
+    height: 200px;
+    width: 200px;
+}

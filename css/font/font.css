@@ -1,0 +1,38 @@
+* {
+    background-color: aqua;
+}
+
+h1 {
+color: aliceblue;
+font-weight: bold;
+font-size: 50px;
+}
+
+.color-item {
+    color: red;
+}
+
+.size {
+    font-size: 100px;
+font-weight: lighter;
+}
+
+h2 {
+ color: aliceblue;
+ font-size: 20px;
+}
+
+
+h3 {
+color: aliceblue;
+
+font-family: 'Architects Daughter' ,cursive ;
+font-weight: lighter;
+}
+
+.text-item {
+    color: aliceblue;
+    margin-left: 700px;
+    font-size: 30px;
+
+}

@@ -1,0 +1,34 @@
+.cat {
+    background-color: aqua;
+   height: 5%;
+font-size: 2rem ;
+float: left;
+
+}
+
+.dog {
+    background-color: peru;
+    
+font-size: 2rem ;
+float: right;
+height: 658px;
+
+}
+
+div {
+    display: inline-block;
+    width: 40%;
+  
+
+}
+
+.footer {
+    text-align: center;
+    background-color: violet;
+    clear: both;
+    
+}
+
+.img {
+    float : left;
+}

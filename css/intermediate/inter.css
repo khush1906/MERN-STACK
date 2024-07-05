@@ -1,0 +1,25 @@
+#outer {
+    border: 10px solid violet;
+
+}
+ .inner-box{
+
+      background-color: red;
+    
+    
+ }
+
+ p {
+   
+    color: yellow;
+ }
+
+ .box {
+    background-color: blue;
+    width: 60%;
+    padding: 10px;
+ 
+}
+.white-text{
+    color: antiquewhite;
+}

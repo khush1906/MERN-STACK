@@ -1,0 +1,31 @@
+/*ol {
+    /*margin-left: 40px;
+    margin-top: 20px;
+}*/
+
+
+
+p {
+    color: red;
+    margin-top: 40px;
+    margin-left: 20px;
+
+}
+
+.list{
+   font-size: 20px;
+
+}
+
+#id-selector{
+    color: green;
+
+}
+
+li[value="4"] {
+color: blue;
+}
+
+li[value="5"] {
+    color: black;
+}

@@ -1,0 +1,22 @@
+h1 , h2 {
+    color: violet; /* multiple selector*/
+}
+
+.box > p{
+color: firebrick;  /* child selector*/
+}
+
+.box li {
+    color: blue;  /*descendant selector*/
+}
+
+/*chaining*/
+ li.done {
+    color: seagreen;
+ }
+
+ /*combining combiners*/
+
+ ul p.done{
+    font-size: 0.5rem;
+ }
